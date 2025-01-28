@@ -29,7 +29,7 @@ A dedicated bot developed exclusively for BDZONE, designed specifically to manag
 1. Configure the bot settings in the `config.json` file (if applicable).
 2. Start the bot:
    ```bash
-   node index.js
+   node bot.js
    ```
 3. The bot will now be active and ready to manage AFK functionality for BDZone.
 
@@ -51,6 +51,6 @@ We welcome contributions! If you'd like to contribute, please follow these steps
 This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
-- Special thanks to the BDZone community for their support and inspiration.
+- Special thanks to the BDZONE community for their support and inspiration.
 - Developed using **Node.js** for efficient and scalable performance.
 

@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "mineflayer": "^4.20.1"
+  }
+}
