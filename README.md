@@ -1,6 +1,6 @@
 # BDZone AFK Bot
 
-A dedicated bot developed exclusively for BDZone, designed specifically to manage AFK (Away From Keyboard) functionality.
+A dedicated bot developed exclusively for BDZONE, designed specifically to manage AFK (Away From Keyboard) functionality.
 
 ## Features
 - Automatically detects and manages AFK status.
