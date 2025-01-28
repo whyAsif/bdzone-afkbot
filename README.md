@@ -1,6 +1,6 @@
 # BDZone AFK Bot
 
-A dedicated bot developed exclusively for BDZONE, designed specifically to manage AFK (Away From Keyboard) functionality.
+A dedicated bot developed exclusively for BDZONE minecraft server, designed specifically to manage AFK (Away From Keyboard) functionality.
 
 ## Features
 
@@ -30,11 +30,13 @@ A dedicated bot developed exclusively for BDZONE, designed specifically to manag
 
 ## Usage
 
-1. Configure the bot settings in the .env file:
+1. Configure the bot settings in the `.env` file:
+   ```env
    BOT_USERNAME=YourBotUsername
    BOT_PASSWORD=YourBotPassword
    SERVER_HOST=play.bdzonemc.com
    SERVER_PORT=25565
+   ```
 2. Start the bot:
    ```bash
    node bot.js
@@ -65,3 +67,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 - Special thanks to the BDZONE community for their support and inspiration.
 - Developed using **Node.js** for efficient and scalable performance.
+
