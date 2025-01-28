@@ -21,7 +21,7 @@ A dedicated bot developed exclusively for BDZONE minecraft server, designed spec
    ```
 2. Navigate to the project directory:
    ```bash
-   cd bdzone-afk-bot
+   cd bdzone-afkbot 
    ```
 3. Install the required dependencies:
    ```bash
